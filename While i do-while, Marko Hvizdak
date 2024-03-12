@@ -1,0 +1,12 @@
+WHILE I DO-WHILE
+- Naredba while predstavlja petlju s ulazom provjerom uvjeta, koja je prikladna kada broj
+ponavljanja ovisi o nekom stanju u programu
+- Naredba do-while predstavlja petlju s izlaznom provjerom uvjeta, koja je prikladna kada je
+potrebno barem jednom izvršiti naredbu
+
+
+- Ukoliko naredbu unutar do-while petlje želimo izvršiti više puta to možemo učiniti tako da
+petlju do-while ugnjezdimo u petlju for
+- Naredba unutar petlje while će se svakim prolazom kroz petlju izvršavati sve dok je uvjet
+ispunjen, dok će se naredba unutar do-while petlje ponavljati sve dok ne dobije
+odgovarajuću vrijednost odnosno dok izlazni uvjet ne bude zadovoljen 
